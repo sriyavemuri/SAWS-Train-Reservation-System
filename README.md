@@ -15,4 +15,4 @@ Password: csr_password <br>
 Username: test_user2 <br>
 Password: password <br>
 
-Check out the demo video to see more details about how the project works and how it is run.
+Check out the demo video (https://youtu.be/awS2dqW2Xyg) to see more details about how the project works and how it is run.
