@@ -3,16 +3,16 @@ SAWS is a train reservation system that allows for customers to book trains, cus
 
 Below is some credential information that already exists in the system and can be used to test it out. Note that it is possible to register more customer representatives and customers on the local server directly, but not another admin account.
 
-Admin Credentials --
-Username: admin_user
-Password: admin_password
+**Admin Credentials** <br>
+Username: admin_user <br>
+Password: admin_password <br>
 
-Customer Representative Credentials --
-Username: csr_user
-Password: csr_password
+**Customer Representative Credentials** <br>
+Username: csr_user <br>
+Password: csr_password <br>
 
-Customer Credentials --
-Username: test_user2
-Password: password
+**Customer Credentials** <br>
+Username: test_user2 <br>
+Password: password <br>
 
-Check out the demo video to see more details about how the project works and is run.
+Check out the demo video to see more details about how the project works and how it is run.
